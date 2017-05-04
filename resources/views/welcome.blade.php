@@ -20,7 +20,7 @@
 
                     <div class="freebirdFormviewerViewHeaderTitleRow">
 
-                        <div class="freebirdFormviewerViewHeaderTitle" dir="auto" role="heading" aria-level="1">Caminata  PARQUE ECOLÓGICO DISTRITAL DE MONTAÑA ENTRENUBES DOMINGO 26 de MARZO 2017</div>
+                        <div class="freebirdFormviewerViewHeaderTitle" dir="auto" role="heading" aria-level="1">Caminata  PARQUE ECOLÓGICO DISTRITAL DE MONTAÑA ENTRENUBES DOMINGO 07 de Mayo 2017</div>
 
                     </div>
 <br>
@@ -111,7 +111,7 @@
 
                                         <td width="282" bgcolor="#ffffff" style="border: 1px solid #5b9bd5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
 
-                                            <p>Polideportivo de Molinos - Barrio Molinos</p>
+                                            <p>CAI de Juan Rey  Trav. 14 este  calle 74 sur - barrio molinos</p>
 
                                         </td>
 
@@ -127,7 +127,7 @@
 
                                         <td width="282" bgcolor="#deeaf6" style="border: 1px solid #5b9bd5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
 
-                                            <p>Domingo 26 de Marzo de 2017</p>
+                                            <p>Domingo 07 de Mayo de 2017</p>
 
                                         </td>
 
